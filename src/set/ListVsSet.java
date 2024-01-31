@@ -1,4 +1,4 @@
-package set.hashset;
+package set;
 
 /*
     @author DanujaV
