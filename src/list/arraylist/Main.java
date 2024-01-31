@@ -1,4 +1,4 @@
-package list;/*
+package list.arraylist;/*
     @author DanujaV
     @created 1/31/24 - 12:11 PM   
 */
